@@ -1,0 +1,20 @@
+1. webflow: blockchain hosting website??web3
+2. explore: new web3 platform: discover and deploy 
+smart contracts from best web3 developers, basically 
+templates of contracts :https://thirdweb.com/thirdweb.eth/DropERC721?via=/explore :
+automatically generates sdk, to interact with contract.
+
+terminal: npx installl wordhat
+
+smart contracts: rename contracts.sol- crowdfunding.sol
+write contract
+
+go to metamask, change to goerli test network
+add test goerli from goerli test faucet.
+
+go to ethereum rpc: https://www.youtube.com/watch?v=BDCT6TYLYdI
+get  goerli testnet endpoint link  from the and edit the hardhat config and add the link
+
+
+
+
